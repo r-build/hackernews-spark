@@ -30,7 +30,7 @@ This worked for me to set JAVA_HOME, and works for checking it too (taken from a
 
 - only use the path to the jdk directory, don't add any sub-folders such as \bin
 
-- don't use any other versions you may have (e.g. I also have Java 11 at C:\Program Files\Java\jdk-11.0.1)
+- don't use any other versions you may have (e.g. I also have Java 11 at C:\Program Files\Java\jdk-11.0.1).
 
 2) Set the `JAVA_HOME` Variable.
 - Right-click 'My Computer' or 'This PC' icon in Windows Explorer and select Properties (or use some other way to get to System Properties).
